@@ -1,1 +1,2 @@
-this is my second text
+this is my second text.
+update from macupdate branch. 
